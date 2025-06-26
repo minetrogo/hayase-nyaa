@@ -1,10 +1,12 @@
-{
-  "id": "nyaa",
-  "name": "Nyaa",
-  "version": "1.0.0",
-  "entry": "index.js",
-  "author": "minetrogo",
-  "type": "torrent",
-  "lang": ["en"],
-  "description": "Nyaa.si search extension for Miru"
-}
+[
+  {
+    "name": "Nyaa",
+    "author": "minetrogo",
+    "version": "1.0.0",
+    "language": "en",
+    "plugin": "index.js",
+    "type": "anime",
+    "site": "https://nyaa.si",
+    "nsfw": false
+  }
+]
